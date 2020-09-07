@@ -1,0 +1,1 @@
+javac --module-path "C:\Program Files\Java\javafx-sdk-14.0.2.1\lib" --add-modules ALL-MODULE-PATH %1
